@@ -1,4 +1,4 @@
-# [野火]《uCOS-III内核实现与应用开发实战指南》系列
-[野火]《uCOS-III内核实现与应用开发实战指南》系列：
-* 链接：https://pan.baidu.com/s/1T7TRRLvEYZH2-V3ef-UVDg 
-* 提取码：bbty 
+# 野火【激光测距_VL53L0X】模块
+野火【激光测距_VL53L0X】模块资料链接：
+* 链接：https://pan.baidu.com/s/1Y7eTE6OIGwLvuJoFEgLZWw 
+* 提取码：zx0i 

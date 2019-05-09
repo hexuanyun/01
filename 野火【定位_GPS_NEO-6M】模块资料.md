@@ -1,4 +1,4 @@
-# [野火]《STM32库开发实战指南》系列
-[野火]《STM32库开发实战指南》系列：
-* 链接：https://pan.baidu.com/s/1Q0IwmPmnW0mcsrzoli9_yw 
-* 提取码：arwe 
+# 野火【定位_GPS_NEO-6M】模块资料
+野火【北斗GPS_ATGM332D】模块资料：
+* 链接：https://pan.baidu.com/s/1lxjPcLssLI1mCapRopYNLw 
+* 提取码：xj35 

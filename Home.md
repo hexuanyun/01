@@ -19,6 +19,7 @@
 ***
 
 ## 野火开源图书专栏
+* [[野火]所有开源图书]
 * [[野火]《STM32库开发实战指南》系列](https://github.com/WildFire-Git/products/wiki/%5B%E9%87%8E%E7%81%AB%5D%E3%80%8ASTM32%E5%BA%93%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E6%8C%87%E5%8D%97%E3%80%8B%E7%B3%BB%E5%88%97)
 * [[野火]《STM32 HAL库开发实战指南》系列](https://github.com/WildFire-Git/products/wiki/%5B%E9%87%8E%E7%81%AB%5D%E3%80%8ASTM32-HAL%E5%BA%93%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E6%8C%87%E5%8D%97%E3%80%8B%E7%B3%BB%E5%88%97)
 * [[野火]《i.MX RT库开发实战指南》系列](https://github.com/WildFire-Git/products/wiki/%5B%E9%87%8E%E7%81%AB%5D%E3%80%8Ai.MX-RT%E5%BA%93%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%E6%8C%87%E5%8D%97%E3%80%8B%E7%B3%BB%E5%88%97)

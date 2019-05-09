@@ -1,4 +1,4 @@
-# [野火]《uCOS-III内核实现与应用开发实战指南》系列
-[野火]《uCOS-III内核实现与应用开发实战指南》系列：
-* 链接：https://pan.baidu.com/s/1T7TRRLvEYZH2-V3ef-UVDg 
-* 提取码：bbty 
+#  野火【RFID-RC522】模块
+野火【RFID-RC522】模块资料链接：
+* 链接：https://pan.baidu.com/s/18R1hT_1f46Nb4WfnDXujEw 
+* 提取码：ie7z  

@@ -1,4 +1,4 @@
-# [野火]《STM32 HAL库开发实战指南》系列
-[野火]《STM32 HAL库开发实战指南》系列：
-* 链接：https://pan.baidu.com/s/1QVwB3has_FL044SY_wBCWQ 
-* 提取码：dqk7 
+# 野火【北斗GPS_ATGM332D】模块资料
+野火【北斗GPS_ATGM332D】模块资料：
+* 链接：https://pan.baidu.com/s/1iIgD9ntg38yGckkuKVyz3g 
+* 提取码：d9gd 
