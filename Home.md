@@ -1,7 +1,7 @@
 # 野火所有产品资料的下载链接
 目录：
 * [STM32系列产品](wiki/Home#STM32系列产品) 
-* [i_MX-RT系列产品](wiki/Home#i_MX-RT系列产品) 
+* [i.MX-RT系列产品](wiki/Home#i_MX-RT系列产品) 
 * [野火开源图书专栏](wiki/Home#野火开源图书专栏) 
 * [模块产品](wiki/Home#模块产品) 
    *   [DAP下载器](wiki/Home#DAP下载器) 
@@ -31,7 +31,7 @@
 
 ***
 
-## i_MX RT系列产品
+## i.MX RT系列产品｛#i_MX-RT系列产品｝
 * [[野火i.MX RT1052开发板]]
 * [[野火i.MX RT1021开发板]]
 
