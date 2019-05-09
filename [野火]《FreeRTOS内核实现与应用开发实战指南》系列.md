@@ -1,10 +1,4 @@
-# 野火STM32F103霸道_V2开发板
-野火STM32F103霸道_V2开发板资料链接：
-* 链接：https://pan.baidu.com/s/1iloNHHAMR4zfU2m3oK8m8w 
-* 提取码：3lt8 
-
-* 资料盘 链接：https://pan.baidu.com/s/1kD25tCdr61Q2YfxX8FBwWg 
-* 提取码：sy1q 
-
-* 视频盘 链接：https://pan.baidu.com/s/1i1z-DfYiEBWmvczcbbGDdA 
-* 提取码：jsqd 
+# [野火]《FreeRTOS内核实现与应用开发实战指南》系列
+[野火]《FreeRTOS内核实现与应用开发实战指南》系列：
+* 链接：https://pan.baidu.com/s/1C7py3OTJV-Bx3Hlv2m4nUA 
+* 提取码：jz6h 

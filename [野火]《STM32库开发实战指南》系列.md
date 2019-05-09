@@ -1,4 +1,4 @@
-# 野火STM32F103指南者开发板
-野火STM32F103指南者开发板资料链接：
-* 链接：https://pan.baidu.com/s/13Fhyon-IvGuR9_DL8-0wHw 
-* 提取码：tzaf 
+# [野火]《STM32库开发实战指南》系列
+[野火]《STM32库开发实战指南》系列：
+* 链接：https://pan.baidu.com/s/1Q0IwmPmnW0mcsrzoli9_yw 
+* 提取码：arwe 
