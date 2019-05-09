@@ -1,4 +1,8 @@
-# 野火STM32F429挑战者_V2开发板
-野火STM32F429挑战者_V2开发板资料链接：
-* 链接：https://pan.baidu.com/s/1eyrJe6uShopTsYOuUEdq7w 
-* 提取码：3klg 
+# 野火ISO-V1开发板资料
+ISO-V1为旧产品，使用本资料时请务必注意区分产品类型，
+
+ISO-V1与ISO-V2版本的区别为，ISO-V1没有板载外部SRAM，
+
+ISO-V2板载了外部SRAM
+
+* 百度网盘 下载链接：https://pan.baidu.com/s/1qXFu6x2
