@@ -1,6 +1,6 @@
 # 野火所有产品资料的下载链接
 ## STM32系列产品
-* [野火STM32F103_MINI开发板] (https://github.com/WildFire-Git/products/wiki/%E9%87%8E%E7%81%ABSTM32F103_MINI%E5%BC%80%E5%8F%91%E6%9D%BF)
+* [野火STM32F103_MINI开发板](https://github.com/WildFire-Git/products/wiki/%E9%87%8E%E7%81%ABSTM32F103_MINI%E5%BC%80%E5%8F%91%E6%9D%BF)
 * 野火STM32F103指南者开发板
 * 野火STM32F103霸道_V2开发板
 * 野火STM32F407霸天虎_V2开发板
