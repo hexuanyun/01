@@ -14,4 +14,6 @@
    *   [摄像头](https://github.com/Embdefire/products/wiki/Home#摄像头) 
    *   [以太网](https://github.com/Embdefire/products/wiki/Home#以太网) 
    *   [杂类通讯模块](https://github.com/Embdefire/products/wiki/Home#杂类通讯模块) 
-   *   [旧产品](https://github.com/Embdefire/products/wiki/Home#旧产品) 
+*  [上位机](https://github.com/Embdefire/products/wiki/Home#上位机) 
+*  [封装库](https://github.com/Embdefire/products/wiki/Home#封装库) 
+*  [旧产品](https://github.com/Embdefire/products/wiki/Home#旧产品) 
