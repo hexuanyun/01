@@ -2,8 +2,8 @@
 本说明包含了野火电子的所有产品资料链接，包含开发板，开源图书，教学视频及模块产品等。
 
 ### 目录：
-* [STM32系列产品](https://github.com/Embdefire/products/wiki/Home#STM32系列产品) 
-* [i.MX-RT系列产品](https://github.com/Embdefire/products/wiki/Home#i_MX-RT系列产品) 
+* [STM32系列产品](#STM32系列产品) 
+* [i.MX-RT系列产品](#i_MX-RT系列产品) 
 * [野火开源图书专栏](https://github.com/Embdefire/products/wiki/Home#野火开源图书专栏) 
 * [野火视频教程专区](https://github.com/Embdefire/products/wiki/Home#野火视频教程专区) 
 * [模块产品](https://github.com/Embdefire/products/wiki/Home#模块产品) 
