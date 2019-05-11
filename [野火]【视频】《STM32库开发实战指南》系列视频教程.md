@@ -1,4 +1,45 @@
 # [野火]【视频】《STM32库开发实战指南》系列视频教程
+## 在线教学视频链接
+
+* [哔哩哔哩](https://space.bilibili.com/356820657/video)
+
+* [网易云课堂](https://study.163.com/provider/400000000596001/course.htm)
+
+* [21ic](http://open.21ic.com/open/lecturer-info?id=278)
+
+## 所有开发板
 [野火] 【视频】《STM32库开发实战指南》系列视频教程，所有开发板：
 * 链接：https://pan.baidu.com/s/1_k7Pb3V8rCoS588Z-0MwXA 
 * 提取码：qkha 
+
+## 基于STM32F103_MINI开发板
+《STM32库开发实战指南》视频教程，基于STM32F103_MINI开发板：
+* 链接：https://pan.baidu.com/s/1FW982rHHAe_kGkvfA0tkFw 
+* 提取码：ohyw 
+
+## 基于STM32F103_指南者开发板
+《STM32库开发实战指南》视频教程，基于STM32F103_指南者开发板：
+* 链接：https://pan.baidu.com/s/13azgBXHrWnU6eX_YtHfAmw 
+* 提取码：spoc 
+
+
+## 基于STM32F103_霸道开发板
+《STM32库开发实战指南》视频教程，基于STM32F103_霸道开发板：
+* 链接：https://pan.baidu.com/s/1DIA1tckgREBOdjYHrt2urg 
+* 提取码：7w4m 
+
+
+## 基于STM32F407_霸天虎开发板 
+《STM32库开发实战指南》视频教程，基于STM32F407_霸天虎开发板：
+* 链接：https://pan.baidu.com/s/17PJE03yi-im5GPyP5eb3-w 
+* 提取码：ji0n 
+
+
+## 基于STM32F429_挑战者开发板
+《STM32库开发实战指南》视频教程，基于STM32F429_挑战者开发板：
+* 链接：https://pan.baidu.com/s/1DiVhePd9ZYVvdQ8AsoWEcA 
+* 提取码：jhcr 
+
+
+
+
