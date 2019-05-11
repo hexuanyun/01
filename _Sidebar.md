@@ -1,6 +1,7 @@
 * [STM32系列产品](https://github.com/Embdefire/products/wiki/Home#STM32系列产品) 
 * [i.MX-RT系列产品](https://github.com/Embdefire/products/wiki/Home#i_MX-RT系列产品) 
 * [野火开源图书专栏](https://github.com/Embdefire/products/wiki/Home#野火开源图书专栏) 
+* [野火视频教程专区](https://github.com/Embdefire/products/wiki/Home#野火视频教程专区) 
 * [模块产品](https://github.com/Embdefire/products/wiki/Home#模块产品) 
    *   [DAP下载器](https://github.com/Embdefire/products/wiki/Home#DAP下载器) 
    *   [传感器](https://github.com/Embdefire/products/wiki/Home#传感器) 
