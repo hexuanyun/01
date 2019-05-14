@@ -8,7 +8,7 @@
    *   [GSM模块](https://github.com/Embdefire/products/wiki/Home#GSM模块) 
    *   [音频模块](https://github.com/Embdefire/products/wiki/Home#音频模块) 
    *   [WiFi模块](https://github.com/Embdefire/products/wiki/Home#WiFi模块) 
-   *   [步进电机](https://github.com/Embdefire/products/wiki/Home#步进电机) 
+   *   [电机](https://github.com/Embdefire/products/wiki/Home#电机) 
    *   [定位模块](https://github.com/Embdefire/products/wiki/Home#定位模块) 
    *   [继电器](https://github.com/Embdefire/products/wiki/Home#继电器) 
    *   [屏幕](https://github.com/Embdefire/products/wiki/Home#屏幕) 
