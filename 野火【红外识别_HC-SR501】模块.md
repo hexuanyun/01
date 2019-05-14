@@ -5,4 +5,4 @@
 * 提取码：4qqs 
 
 ## 产品图片
-![OLED屏_SPI_0.96寸](https://raw.githubusercontent.com/wiki/Embdefire/products/images/模块产品/传感器/红外识别_HC-SR501.png)
+![红外识别_HC-SR501](https://raw.githubusercontent.com/wiki/Embdefire/products/images/模块产品/传感器/红外识别_HC-SR501.png)
