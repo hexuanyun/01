@@ -5,4 +5,4 @@
 * 提取码：4gnf 
 
 ## 产品图片
-![温湿度传感器_DHT11](https://raw.githubusercontent.com/wiki/Embdefire/products/images/模块产品/传感器/温湿度传感器_DHT11.png)
+![温湿度传感器_DHT11](https://raw.githubusercontent.com/wiki/Embdefire/products/images/模块产品/传感器/温湿度传感器_DHT11.jpg)
