@@ -11,4 +11,4 @@
 ## 产品图片
 
 ### STM32 HAL库开发实战指南——基于STM32H7
-![STM32 HAL库开发实战指南——基于STM32H7](https://raw.githubusercontent.com/wiki/Embdefire/products/images/野火开源图书专栏/STM32&#32;HAL库开发实战指南——基于STM32H7.jpg)
+![STM32 HAL库开发实战指南——基于STM32H7](https://raw.githubusercontent.com/wiki/Embdefire/products/images/野火开源图书专栏/STM32-HAL库开发实战指南——基于STM32H7.jpg)
