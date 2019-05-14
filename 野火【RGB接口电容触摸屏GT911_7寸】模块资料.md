@@ -5,4 +5,4 @@
 * 提取码：o6tr 
 
 ## 产品图片
-![RGB接口电容触摸屏GT911_7寸](https://raw.githubusercontent.com/wiki/Embdefire/products/images/模块产品/屏幕/RGB接口电容触摸屏GT911_7寸.png)
+![RGB接口电容触摸屏GT911_7寸](https://raw.githubusercontent.com/wiki/Embdefire/products/images/模块产品/屏幕/RGB接口电容触摸屏GT911_7寸.jpg)

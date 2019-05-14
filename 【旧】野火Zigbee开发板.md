@@ -6,4 +6,4 @@
 
 
 ## 产品图片
-![野火Zigbee开发板](https://raw.githubusercontent.com/wiki/Embdefire/products/images/旧产品/野火Zigbee开发板.png)
+![野火Zigbee开发板](https://raw.githubusercontent.com/wiki/Embdefire/products/images/旧产品/野火Zigbee开发板.jpg)
