@@ -20,5 +20,5 @@
 ### i.MX RT1052 BTB接口核心板
 ![i.MX RT1052 BTB接口核心板](https://raw.githubusercontent.com/wiki/Embdefire/products/images/i_MX_RT系列产品/RT1052/i_MX_RT1052_BTB_核心板.jpg)
 
-### i.MX RT1052 邮票孔接口核心板板
+### i.MX RT1052 邮票孔接口核心板
 ![i.MX RT1052 邮票孔接口核心板](https://raw.githubusercontent.com/wiki/Embdefire/products/images/i_MX_RT系列产品/RT1052/i_MX_RT1052_邮票孔_核心板.jpg)
