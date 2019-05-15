@@ -1,7 +1,6 @@
 # [野火]【视频】《STM32库开发实战指南》系列视频教程
 ## 目录：
 * [在线教学视频链接](#在线教学视频链接)
-* [所有开发板](#所有开发板)
 * [基于STM32F103_MINI开发板](#基于STM32F103_MINI开发板)
 * [基于STM32F103_指南者开发板](#基于STM32F103_指南者开发板)
 * [基于STM32F103_霸道开发板](#基于STM32F103_霸道开发板)
@@ -15,12 +14,6 @@
 * [网易云课堂](https://study.163.com/provider/400000000596001/course.htm)
 * [21ic](http://open.21ic.com/open/lecturer-info?id=278)
 
-***
-
-## 所有开发板
-[野火] 【视频】《STM32库开发实战指南》系列视频教程，所有开发板：
-* 链接：https://pan.baidu.com/s/1_k7Pb3V8rCoS588Z-0MwXA 
-* 提取码：qkha 
 
 ***
 
@@ -41,8 +34,9 @@
 
 ## 基于STM32F103_霸道开发板
 《STM32库开发实战指南》视频教程，基于STM32F103_霸道及霸道_V2开发板：
-* 链接：https://pan.baidu.com/s/1DIA1tckgREBOdjYHrt2urg 
-* 提取码：7w4m 
+* 链接：https://pan.baidu.com/s/1dReYGd7al9QT2bVNnvb5RQ 
+* 提取码：1gwa 
+
 
 
 ***
