@@ -7,6 +7,7 @@
 
 
 ## 产品图片
+本开发板有红色和黑色两款，功能完全一样，仅颜色不同。
 
 ### STM32H743_Pro核心板
 ![STM32H743_Pro核心板](https://raw.githubusercontent.com/wiki/Embdefire/products/images/STM32系列产品/STM32H743_Pro开发板/STM32H743_Pro核心板.jpg)
