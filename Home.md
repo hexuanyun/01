@@ -64,7 +64,7 @@
 * [[ [野火]《STM32 HAL库开发实战指南》系列]]：<http://t.cn/EKbzGds>
 * [[ [野火]《i.MX RT库开发实战指南》系列]]：<http://t.cn/EK4dWJ4>
 * [[ [野火]《FreeRTOS内核实现与应用开发实战指南》系列]]：<http://t.cn/EKb7eTA>
-* [[ [野火]《物联网操作系统 LiteOS开发实战指南]]：<http://t.cn/E9tyIyz>
+* [[ [野火]《物联网操作系统LiteOS开发实战指南》系列]]：<http://t.cn/E9tyIyz>
 * [[ [野火]《uCOS-III内核实现与应用开发实战指南》系列]]：<http://t.cn/EKb7RvJ>
 * [[ [野火]《RT-Thread内核实现与应用开发实战指南》系列]]：<http://t.cn/EKb7IG9>
 * [[ [野火]《LwIP应用开发实战指南》系列]]：<http://t.cn/EKbhrE6>
