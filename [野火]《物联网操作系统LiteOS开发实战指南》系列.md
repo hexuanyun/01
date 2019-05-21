@@ -11,5 +11,5 @@
 ## 产品图片
 
 ### 物联网操作系统 LiteOS开发实战指南
-![物联网操作系统 LiteOS开发实战指南](https://raw.githubusercontent.com/wiki/Embdefire/products/images/野火开源图书专栏/物联网操作系统 LiteOS开发实战指南——基于STM32.jpg)
+![物联网操作系统 LiteOS开发实战指南](https://raw.githubusercontent.com/wiki/Embdefire/products/images/野火开源图书专栏/物联网操作系统LiteOS开发实战指南——基于STM32.jpg)
 
